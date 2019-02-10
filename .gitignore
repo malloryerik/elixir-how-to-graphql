@@ -36,4 +36,6 @@ community-*.tar
 /config/*.secret.exs
 
 # Ignore Language Server directory
+# Still needs to be removed, see here? 
+# https://stackoverflow.com/questions/45400361/why-is-gitignore-not-ignoring-my-files
 /.elixir_ls/
