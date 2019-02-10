@@ -31,6 +31,7 @@ defmodule Community.MixProject do
   # Specifies your project dependencies.
   #
   # Type `mix help deps` for examples and options.
+  
   defp deps do
     [
       {:phoenix, "~> 1.4.0"},
